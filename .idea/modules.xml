@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/sistemadelivery.iml" filepath="$PROJECT_DIR$/sistemadelivery.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/playerdemusica.iml" filepath="$PROJECT_DIR$/playerdemusica.iml" />
+>>>>>>> 8b65309b28cd81ede288e5f3979f8af62eb2b095
     </modules>
   </component>
 </project>
