@@ -3,10 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/sistemadelivery.iml" filepath="$PROJECT_DIR$/sistemadelivery.iml" />
 =======
       <module fileurl="file://$PROJECT_DIR$/playerdemusica.iml" filepath="$PROJECT_DIR$/playerdemusica.iml" />
 >>>>>>> 8b65309b28cd81ede288e5f3979f8af62eb2b095
+=======
+      <module fileurl="file://$PROJECT_DIR$/JFSKDFB.iml" filepath="$PROJECT_DIR$/JFSKDFB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-25-05/aula-25-05.iml" filepath="$PROJECT_DIR$/aula-25-05/aula-25-05.iml" />
+>>>>>>> f70dd60cdd1f04305aca63477d97a52846a0f9b3
     </modules>
   </component>
 </project>
